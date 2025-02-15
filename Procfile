@@ -1,0 +1,1 @@
+web: node solution.js

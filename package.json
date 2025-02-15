@@ -1,0 +1,16 @@
+{
+  "name": "render-app",
+  "version": "1.0.0",
+  "main": "solution.js",
+  "scripts": {
+    "start": "node solution.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "pg": "^8.11.0",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9"
+  }
+}
+
